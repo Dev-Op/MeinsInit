@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi ich bin Axel
-=======
 <Platzhalter> ich bin Axel
->>>>>>> fix typO
